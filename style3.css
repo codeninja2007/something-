@@ -1,0 +1,10 @@
+body{
+	background-image: url(yami.jpg);
+	background-size: cover;
+}
+
+p{
+	font-size: 25px;
+	border:5px solid green;
+	text-align: center;
+}

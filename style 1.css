@@ -1,0 +1,19 @@
+li{
+	list-style:none;
+	display:inline-block;
+}
+
+h2{
+	color: blue;
+	text-align: center;
+	border:5px solid blue;
+	
+
+}
+body{
+	background-image: url();
+	background-size:cover 100px;
+}
+.zone{
+
+}
